@@ -29,5 +29,11 @@
     "host_permissions": [
       "https://*/*"
     ]
+  },
+  "plasmo": {
+    "name": "My Plasmo Extension",
+    "permissions": [
+      "tabs"
+    ]
   }
 }
